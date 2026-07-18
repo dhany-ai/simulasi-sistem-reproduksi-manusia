@@ -1,5 +1,5 @@
 <svg viewBox="0 0 1280 360" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="bannerTitle bannerDesc">
-<title id="bannerTitle">Atlas Reproduksi — Simulasi Interaktif Sistem Reproduksi Manusia</title>
+<title id="bannerTitle">Sistem Reproduksi — Simulasi Interaktif Sistem Reproduksi Manusia</title>
 <desc id="bannerDesc">Banner proyek dengan diagram roda siklus menstruasi 28 hari dan ringkasan fitur</desc>
 <defs>
   <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
@@ -39,7 +39,7 @@
 <text x="96" y="65" class="mono" font-size="14" letter-spacing="2.6" fill="#5FE3D0">SIMULASI_BIOLOGI // INTERAKTIF</text>
 
 <!-- title -->
-<text x="62" y="148" class="disp" font-size="58" fill="#EAF3F1">Atlas <tspan fill="#5FE3D0">Reproduksi</tspan></text>
+<text x="62" y="148" class="disp" font-size="58" fill="#EAF3F1">Sistem <tspan fill="#5FE3D0">Reproduksi</tspan></text>
 
 <!-- subtitle -->
 <text x="64" y="190" class="body" font-size="19" fill="#B9C9CB">Diagram anatomi, hormon, siklus, hingga kelahiran —</text>
