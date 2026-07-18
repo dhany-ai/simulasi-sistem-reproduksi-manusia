@@ -17,23 +17,6 @@
 - **Glosarium** — istilah-istilah penting dirangkum di satu tempat
 - **Kuis Evaluasi** — 18 soal pilihan ganda lengkap dengan pembahasan di tiap jawaban
 
-## 🖥️ Cara Menjalankan
-
-Murni HTML/CSS/JS satu file — tidak ada proses build atau dependency yang perlu diinstal.
-
-**Opsi 1 — Buka langsung**
-
-```bash
-git clone https://github.com/dhany-ai/simulasi-sistem-reproduksi.git
-cd simulasi-sistem-reproduksi
-# lalu buka index.html di browser
-```
-
-**Opsi 2 — Live demo lewat GitHub Pages**
-
-1. Buka `Settings → Pages` di repo ini
-2. Pilih branch `main` dan folder `/ (root)`
-3. Setelah aktif, proyek bisa diakses di `https://dhany-ai.github.io/simulasi-sistem-reproduksi/`
 
 ## 🛠️ Dibuat Dengan
 
