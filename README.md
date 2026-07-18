@@ -1,6 +1,6 @@
-![Banner Atlas Reproduksi](./banner.svg)
+![Banner Simulasi Sistem Reproduksi](./banner.svg)
 
-# 🧬 Atlas Reproduksi
+# 🧬 Sistem Reproduksi
 
 **Simulasi & visualisasi interaktif sistem reproduksi manusia** — materi belajar biologi yang dikemas lewat diagram, simulasi, dan kuis, semuanya jalan dari satu file HTML tanpa perlu instalasi apa pun.
 
@@ -24,8 +24,8 @@ Murni HTML/CSS/JS satu file — tidak ada proses build atau dependency yang perl
 **Opsi 1 — Buka langsung**
 
 ```bash
-git clone https://github.com/dhany-ai/atlas-reproduksi.git
-cd atlas-reproduksi
+git clone https://github.com/dhany-ai/simulasi-sistem-reproduksi.git
+cd simulasi-sistem-reproduksi
 # lalu buka index.html di browser
 ```
 
@@ -33,7 +33,7 @@ cd atlas-reproduksi
 
 1. Buka `Settings → Pages` di repo ini
 2. Pilih branch `main` dan folder `/ (root)`
-3. Setelah aktif, proyek bisa diakses di `https://dhany-ai.github.io/atlas-reproduksi/`
+3. Setelah aktif, proyek bisa diakses di `https://dhany-ai.github.io/simulasi-sistem-reproduksi/`
 
 ## 🛠️ Dibuat Dengan
 
@@ -52,7 +52,7 @@ Konten dalam proyek ini dibuat untuk tujuan edukasi umum (materi biologi) dan bu
 ## 📁 Struktur Folder
 
 ```
-atlas-reproduksi/
+simulasi-sistem-reproduksi/
 ├── index.html      # Aplikasi utama (diagram, simulasi, kuis)
 ├── README.md
 ├── LICENSE
